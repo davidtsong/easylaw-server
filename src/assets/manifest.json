@@ -1,0 +1,10 @@
+{
+  "name": "Welcome to MyRights",
+  "start_url": "localhost:8080",
+  "description": "Reclaiming your legal rights by helping you understand law contracts and reclaiming ownership over your agreements encrypted on the blockchain",
+  "icons": [{
+    "src": "http://localhost:8080/icon-192x192.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }]
+}
